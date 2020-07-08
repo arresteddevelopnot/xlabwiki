@@ -1,1 +1,0 @@
-![](https://about.gitlab.com/images/home/icons-pattern-left.svg)
