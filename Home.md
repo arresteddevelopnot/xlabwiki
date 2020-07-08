@@ -1,4 +1,4 @@
-##xLab Handbook
+## xLab Handbook
 ### Why do we need this? 
 We've not been working in a distributed manner for long. More importantly, **we're not great at it**. (This isn't a knock - just a reflection of how incredibly self-aware we are.) Instead of building from scratch, we've looked and talked to firms that have been doing this for longer, on a bigger scale, and better than us - **GitLab, Basecamp, Automattic, Tandem, YC, Doist**, and more. 
 
