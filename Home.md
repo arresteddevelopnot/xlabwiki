@@ -2,7 +2,7 @@ our handbook
 ====
 
 tldr 🪓
-====
+---
 
 The **scope + objective** of this is to address:
 
