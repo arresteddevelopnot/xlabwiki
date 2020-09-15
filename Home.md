@@ -23,12 +23,12 @@ What this is not ☠️
 Jump to 👉
 =========
 
-- 🔗 [How we (enable) work](How-we-(enable)-work)
-- 🔗 [Our toolkit](Toolkit)
-- 🔗 [Meeting Cadence](Meeting-Cadence)
-- 🔗 [Making changes](Making-Changes)
-- 🔗 [OKRs](OKRs)
-- 🔗 [Changelog](Changelog)
+- 🎮 [How we (enable) work](How-we-(enable)-work)
+- 🛠 [Our toolkit](Toolkit)
+- 🎵 [Meeting Cadence](Meeting-Cadence)
+- ⚡️ [Making changes](Making-Changes)
+- 🎯 [OKRs](OKRs)
+- 📒 [Changelog](Changelog)
 
 First steps
 ===========
