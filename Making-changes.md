@@ -1,22 +1,28 @@
-Anyone / everyone is empowered to suggest or make changes that they believe will be for the best. However, to make sure we learn from these changes, and to help those who are away and come back to a radically different structure ash siddiqi, make sure to document them. This is the job of the changer
+Team members are **empowered to make or suggest improvements** if they believe it addresses a **[👉 pain-point](https://coda.io/d/handbook_d8YyqXR1Myf/Issues-changelog_suHR-)**
 
-# Guiding beliefs
-* Write access by default -
-* Read access without friction
+**However:**
 
-Our current method for documenting changes is through a changelog that’s hosted on the DD GitHub https://github.com/DeloitteDigitalUK/xLab/releases/
+**https://en.m.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence**
 
-The decision to not use pre-existing tools for both the changelog and handbook is best explained by someone else
+Once someone implements a change **they are the** **[👉 DRI](https://coda.io/d/handbook_d8YyqXR1Myf/How-we-enable-work_suTXa)** **for that initiative.** This means they must:
 
-In wikis it is impossible to make proposals that touch multiple parts of a page and/or multiple pages. Therefore it is hard to reorganize the handbook. With distributed version control you can split the role of submitter and approver. This allows for a division of work that keeps the handbook up to date:
+-   ensure details are **communicated effectively** to the team
+-   **document the changes,** the **rationale**, what **it addresses / improves**, and **outcomes [see****[Issues + changelog](https://coda.io/d/handbook_d8YyqXR1Myf/Issues-changelog_suHR-)**or **[⚡️ changelog](https://github.com/dsrptn/xLab/releases/)****]**
 
-* Anyone who can read the handbook can make a proposal
-* Leaders (who tend to be short on time) only have to approve such a proposal
+![image.png](https://codahosted.io/docs/8YyqXR1Myf/blobs/bl-0OuftOsYVT/254944823eac3783287ff3ec50155524a7e2e4c5d33dd8b2fe56440b13e433ab521ec392f010ee9bc3a1c55c22754f0936a35d76b6eb1b8221714bce1ab87233aa2647e89bfaa889c7c74e27c844071df93cd8efc8531eb1a9b03b6f53321dcae0fd3013)
 
-Wikis also do not encourage collaboration on changes, because there is no way to discuss a proposed change like there is with merge requests
+This ensures
 
-![](https://coda.io/contentProxy/JDDWc9KFCx/blobs/bl-tlKswklqRq/2efc40a21a1a0b0f7fed1e518b31d934f3ea259457f1dfbcb4f39b273f68857b1148091dd02c8f07fe2afc90e605b0aa99018c50b6383b61a38af0052113ec29f7ffc0266670ca8d452568f2ecf952ce0651cd5362f6e03fa545173583213ffa5343e976)
+-   we have an **accessible**, **asynchronous-friendly** **reference**
+-   we avoid **unknowingly reverting to past changes,**
+-   we don't **disadvantage those on leave**
 
-This also integrates with Slack seemlessly to provide updates
+**👉**
 
-![](https://coda.io/contentProxy/JDDWc9KFCx/blobs/bl-tlKswklqRq/2efc40a21a1a0b0f7fed1e518b31d934f3ea259457f1dfbcb4f39b273f68857b1148091dd02c8f07fe2afc90e605b0aa99018c50b6383b61a38af0052113ec29f7ffc0266670ca8d452568f2ecf952ce0651cd5362f6e03fa545173583213ffa5343e976)
+OKRs_surEt
+
+* * * * *
+
+**👉 Next up** **[OKRs](https://coda.io/d/handbook_d8YyqXR1Myf/OKRs_surEt)**
+
+**👈 Back to** **[Home](https://coda.io/d/handbook_d8YyqXR1Myf/Home_suMUJ)**
