@@ -20,17 +20,17 @@ What this is not
 Jump to..
 =========
 
-[How we (enable) work](https://coda.io/d/handbook_d8YyqXR1Myf/How-we-enable-work_suTXa)
+[How we (enable) work](How-we-(enable)-work)
 
-[toolkit list](https://coda.io/d/handbook_d8YyqXR1Myf/toolkit-list_sua97)
+[Our toolkit](Toolkit)
 
 [Meeting Cadence](Meeting-Cadence)
 
-[Making changes](https://coda.io/d/handbook_d8YyqXR1Myf/Making-changes_suGKS)
+[Making changes](Making-Changes)
 
-[OKRs](https://coda.io/d/handbook_d8YyqXR1Myf/OKRs_surEt)
+[OKRs](OKRs)
 
-[Issues + changelog](https://coda.io/d/handbook_d8YyqXR1Myf/Issues-changelog_suHR-)
+[Changelog](Changelog)
 
 First steps
 ===========
