@@ -1,36 +1,34 @@
-tldr
+our handbook
+====
+
+tldr 🪓
 ====
 
 The **scope + objective** of this is to address:
 
-On my first week, what do I need to know to be at the right place at the right time?
+> On my first week on this team, what do I need to know to be at the right place at the right time?
 
-What this is
+What this is 🎯
 ------------
 
 -   an informal (but **structured +** **accurate**) **snapshot** of **our workflows**
 -   the **team's meta-knowledge** in one place
 
-What this is not
+What this is not ☠️
 ----------------
 
 -   a **knowledge-base for everything** we've done
 -   information on anything beyond **core team admin**
 
-Jump to..
+Jump to 👉
 =========
 
-[How we (enable) work](How-we-(enable)-work)
-
-[Our toolkit](Toolkit)
-
-[Meeting Cadence](Meeting-Cadence)
-
-[Making changes](Making-Changes)
-
-[OKRs](OKRs)
-
-[Changelog](Changelog)
+- 🔗 [How we (enable) work](How-we-(enable)-work)
+- 🔗 [Our toolkit](Toolkit)
+- 🔗 [Meeting Cadence](Meeting-Cadence)
+- 🔗 [Making changes](Making-Changes)
+- 🔗 [OKRs](OKRs)
+- 🔗 [Changelog](Changelog)
 
 First steps
 ===========
@@ -41,26 +39,22 @@ First steps
 -   Get access to **Miro** (#yc)
 -   Subscribe to the **shared** **Calendar** (#os)
 
-**👉**
-
-How-we-work_suTXa
-
-* * * * *
-
-
-TL
+TL 🔥
 ==
 
 (in the spirit of documenting everything):
 
-**We're not great at distributed working** (we're better than many **around us**, but **that's not a representative sample)**. That's **not a knock** against us - we've **had no reason** to be
-
 **Documentation** is a **universal 'best practice'** for **distributed, asynchronous teams,** according to those that have been '**doing distributed**' for **longer + on a bigger scale** - **GitLab, Basecamp, Automattic,** etc;  this is an **experiment** to see if we agree
 
-Similar rationale for the other stuff I was 'pushing' 😬
+The principle behind it is similar to the other things I've been pushing (which may not be a good thing 😬)
 
-**e.g.** **[👉 Tandem](https://coda.io/d/handbook_d8YyqXR1Myf/toolkit-list_sua97)****,** **[👉 JIRA sucks / better programme management](https://coda.io/d/handbook_d8YyqXR1Myf/OKRs_surEt)****,** **[👉 a changelog](https://coda.io/d/handbook_d8YyqXR1Myf/Issues-changelog_suHR-)****,** **[👉 a more 'forced' focus on 'open comms'](https://coda.io/d/handbook_d8YyqXR1Myf/Meeting-Cadence_suoFD)**, a considered refocus of **[👉 team meetings](https://coda.io/d/handbook_d8YyqXR1Myf/Meeting-Cadence_suoFD)****,** etc
+- **[👉 Tandem](Our-Toolkit)**
+- [👉 JIRA sucks / better programme management](OKRs)
+- [👉 a changelog](Changelog)
+- **[👉 a more deliberate focus on transparency and openness](Meeting-Cadence)**
+- a considered refocus of **[👉 team meetings](https://coda.io/d/handbook_d8YyqXR1Myf/Meeting-Cadence_suoFD)** 
 
+etc, with the overarching idea being that anyone is able to define **who we are, what we do, and what we're doing right now (which is consistent with the first 2 points)**
 * * * * *
 
-**👉 Next up** **[How we (enable) work](https://coda.io/d/handbook_d8YyqXR1Myf/How-we-enable-work_suTXa)**
+**👉 Next up** **[How we (enable) work](How-we-(enable)-work)**
