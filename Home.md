@@ -24,7 +24,7 @@ Jump to..
 
 [toolkit list](https://coda.io/d/handbook_d8YyqXR1Myf/toolkit-list_sua97)
 
-[Meeting Cadence](https://coda.io/d/handbook_d8YyqXR1Myf/Meeting-Cadence_suoFD)
+[Meeting Cadence](meeting_cadence.md)
 
 [Making changes](https://coda.io/d/handbook_d8YyqXR1Myf/Making-changes_suGKS)
 
